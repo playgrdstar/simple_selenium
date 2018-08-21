@@ -1,3 +1,3 @@
-# HTML Scraping
+# Simple Selenium   
 
-Just a super simple script to start scraping webpages.
+Just a super simple script to get started with selenium
